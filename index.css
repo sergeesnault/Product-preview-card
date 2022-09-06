@@ -23,6 +23,7 @@ body{
     height: 450px;
     border-radius: 10px;
     overflow: hidden;
+    margin-bottom: 2rem;
 }
 
 .product__card__img__content-img{
